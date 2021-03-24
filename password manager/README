@@ -1,1 +1,6 @@
+This program uses a sql database to store passwords for different accounts. You have the option to input your own passwords or generate new passwords, which get
+encrypted before saved in the database. There is also a main menu where you get the option to delete passwords and retrieve passwrods for specific accounts.
+
+Master passwords = 12345
+
 In order to run this .py file you will need have the following libraries installed (cryptography.fernet, getpass, pyperclip).
